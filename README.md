@@ -1,4 +1,4 @@
-# Wassalni Ride-Sharing App
+# Wassalni Ride-Sharing App(this is only a description, the app source code is not allowed to be shared)
 
 ## Overview
 Wassalni is a full-stack ride-sharing application designed to connect drivers and passengers seamlessly. Built with a robust backend and a user-friendly frontend, this app provides secure authentication, user profiles, trip management, and real-time communication. 
